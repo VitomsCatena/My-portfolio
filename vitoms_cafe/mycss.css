@@ -1,0 +1,19 @@
+body,h1,h5 {
+    font-family: "Raleway", sans-serif;
+}
+
+html {
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+.background {
+  background-image: url('IMG-20220805-WA0029.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
