@@ -183,7 +183,7 @@ header .scroll-bar{
 .about .row .progress-bar .progress h3{
     display: flex;
     justify-content: space-between;
-    color:rgb(228, 29, 29);
+    color:rgb(197, 27, 27);
     font-size: 2rem;
 }
 
@@ -202,21 +202,51 @@ header .scroll-bar{
     height: 100%;
 }
 
+/*git and github*/
 .about .row .progress-bar .progress:nth-child(2) .bar span{
     width:95%;
 }
+/*end github*/
 
+/*html and css*/
 .about .row .progress-bar .progress:nth-child(3) .bar span{
     width:85%;
 }
+/*end html and css*/
 
+/*Bootstrap*/
 .about .row .progress-bar .progress:nth-child(4) .bar span{
-    width:60%;
+    width:100%;
 }
+/*end bootstrap*/
+
+/*this is C */
+.about .row .progress-bar .progress:nth-child(5) .bar span{
+    width:68%;
+}
+/*end c*/
+
+/*php*/
+.about .row .progress-bar .progress:nth-child(6) .bar span{
+    width:78%;
+}
+/*end php*/
+
+/*javascript*/
+.about .row .progress-bar .progress:nth-child(7) .bar span{
+    width:15%;
+}
+/*end javascript*/
+
+/*ms word,excel*/
+.about .row .progress-bar .progress:nth-child(5) .bar span{
+    width:68%;
+}
+/*end ms word,excel*/
 
 .about .row .presonal-info{
     flex:1 1 55rem;
-    padding:1rem;
+    padding:2rem;
 }
 
 .about .row .presonal-info .box-container{
@@ -226,13 +256,13 @@ header .scroll-bar{
 }
 
 .about .row .presonal-info .box-container .box{
-    padding:1rem;
+    padding:25rem;
 }
 
 .about .row .presonal-info .box-container .box h3{
-    font-size: 15px;
+    font-size: 105px;
     color:#333;
-    padding:1rem 0;
+    padding:4rem 0;
 }
 
 .about .row .presonal-info .box-container .box h3 span{
