@@ -400,7 +400,7 @@ header .scroll-bar{
 .portfolio .box-container .box .info{
     position: absolute;
     top:-100%; left: 0;
-    background:rgba(255, 71, 87,.8);
+    background:#ff4757;
     color:#fff;
     height: 100%;
     width:100%;
@@ -413,6 +413,7 @@ header .scroll-bar{
 
 .portfolio .box-container .box:hover .info{
     top:0;
+    font-size: 30px;
 }
 
 .portfolio .box-container .box:hover img{
