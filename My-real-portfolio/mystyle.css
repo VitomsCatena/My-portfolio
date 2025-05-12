@@ -160,6 +160,8 @@ header .scroll-bar{
     padding-bottom: 1rem;
 }
 
+/*ABOUT SECTION*/
+
 .about .row{
     display: flex;
     flex-wrap: wrap;
